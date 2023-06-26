@@ -1,0 +1,906 @@
+1;Bardo;1
+2;Bielawa;1
+3;Bierutów;1
+4;Bogatynia;1
+5;Boguszów-Gorce;1
+6;Boles³awiec;1
+7;Bolków;1
+8;Brzeg Dolny;1
+9;Bystrzyca K³odzka;1
+10;Chocianów;1
+11;Chojnów;1
+12;Cieplice Œl¹skie-Zdrój;1
+13;Duszniki-Zdrój;1
+14;Dzier¿oniów;1
+15;G³ogów;1
+16;G³uszyca;1
+17;Góra;1
+18;Gryfów Œl¹ski;1
+19;Jawor;1
+20;Jaworzyna Œl¹ska;1
+21;Jedlina-Zdrój;1
+22;Jelcz-Laskowice;1
+23;Jelenia Góra;1
+24;Kamienna Góra;1
+25;Karpacz;1
+26;K¹ty Wroc³awskie;1
+27;K³odzko;1
+28;Kowary;1
+29;Kudowa-Zdrój;1
+30;L¹dek-Zdrój;1
+31;Legnica;1
+32;Leœna;1
+33;Lewin K³odzki;1
+34;Lubañ;1
+35;Lubawka;1
+36;Lubin;1
+37;Lubomierz;1
+38;Lwówek Œl¹ski;1
+39;Mieroszów;1
+40;Miêdzybórz;1
+41;Miêdzylesie;1
+42;Milicz;1
+43;Mirsk;1
+44;Niemcza;1
+45;Nowa Ruda;1
+46;Nowogrodziec;1
+47;Oborniki Œl¹skie;1
+48;Oleœnica;1
+49;Olszyna;1
+50;O³awa;1
+51;Piechowice;1
+52;Pieñsk;1
+53;Pieszyce;1
+54;Pi³awa Górna;1
+55;Polanica-Zdrój;1
+56;Polkowice;1
+57;Pracze Odrzañskie;1
+58;Prochowice;1
+59;Prusice;1
+60;Przemków;1
+61;Radków;1
+62;Siechnice;1
+63;Sobótka;1
+64;Stronie Œl¹skie;1
+65;Strzegom;1
+66;Strzelin;1
+67;Syców;1
+68;Szczawno-Zdrój;1
+69;Szczytna;1
+70;Szklarska Porêba;1
+71;Œcinawa;1
+72;Œroda Œl¹ska;1
+73;Œwidnica;1
+74;Œwiebodzice;1
+75;Œwieradów Zdrój;1
+76;Œwierzawa;1
+77;Trzebnica;1
+78;Twardogóra;1
+79;Wa³brzych;1
+80;W¹sosz;1
+81;Wêgliniec;1
+82;Wi¹zów;1
+83;Wleñ;1
+84;Wojcieszów;1
+85;Wo³ów;1
+86;Wroc³aw;1
+87;Zawidów;1
+88;Z¹bkowice Œl¹skie;1
+89;Zgorzelec;1
+90;Ziêbice;1
+91;Z³otoryja;1
+92;Z³oty Stok;1
+93;¯arów;1
+94;¯migród;1
+95;Aleksandrów Kujawski;2
+96;Barcin;2
+97;Brodnica;2
+98;Brzeœæ Kujawski;2
+99;Bydgoszcz;2
+100;Che³mno;2
+101;Che³m¿a;2
+102;Chodecz;2
+103;Ciechocinek;2
+104;Gniewkowo;2
+105;Golub-Dobrzyñ;2
+106;Górzno;2
+107;Grudzi¹dz;2
+108;Inowroc³aw;2
+109;Izbica Kujawska;2
+110;Jab³onowo Pomorskie;2
+111;Janikowo;2
+112;Janowiec Wielkopolski;2
+113;Kamieñ Krajeñski;2
+114;Kcynia;2
+115;Koronowo;2
+116;Kowal;2
+117;Kowalewo Pomorskie;2
+118;Kruszwica;2
+119;Lipno;2
+120;Lubieñ Kujawski;2
+121;Lubraniec;2
+122;£abiszyn;2
+123;£asin;2
+124;Mogilno;2
+125;Mrocza;2
+126;Nak³o nad Noteci¹;2
+127;Nieszawa;2
+128;Nowe;2
+129;Pakoœæ;2
+130;Piotrków Kujawski;2
+131;Radziejów;2
+132;Radzyñ Che³miñski;2
+133;Rypin;2
+134;Sêpólno Krajeñskie;2
+135;Skêpe;2
+136;Solec Kujawski;2
+137;Strzelno;2
+138;Szubin;2
+139;Œwiecie;2
+140;Toruñ;2
+141;Tuchola;2
+142;W¹brzeŸno;2
+143;Wiêcbork;2
+144;W³oc³awek;2
+145;¯nin;2
+146;Annopol;3
+147;Be³¿yce;3
+148;Bia³a Podlaska;3
+149;Bi³goraj;3
+150;Bychawa;3
+151;Che³m;3
+152;Dêblin;3
+153;Frampol;3
+154;Hrubieszów;3
+155;Janów Lubelski;3
+156;Józefów k/Bi³goraja;3
+157;Kazimierz Dolny;3
+158;Kock;3
+159;Krasnobród;3
+160;Krasnystaw;3
+161;Kraœnik;3
+162;Lubartów;3
+163;Lublin;3
+164;£aszczów;3
+165;£êczna;3
+166;£uków;3
+167;Miêdzyrzec Podlaski;3
+168;Modliborzyce;3
+169;Na³êczów;3
+170;Opole Lubelskie;3
+171;Ostrów Lubelski;3
+172;Parczew;3
+173;Piaski;3
+174;Poniatowa;3
+175;Pu³awy;3
+176;Radzyñ Podlaski;3
+177;Rejowiec Fabryczny;3
+178;Ryki;3
+179;Stoczek £ukowski;3
+180;Szczebrzeszyn;3
+181;Œwidnik;3
+182;Tarnogród;3
+183;Terespol;3
+184;Tomaszów Lubelski;3
+185;Tyszowce;3
+186;W³odawa;3
+187;Zamoœæ;3
+188;Zwierzyniec;3
+189;Babimost;4
+190;Bytom Odrzañski;4
+191;Cybinka;4
+192;Czerwieñsk;4
+193;Dobiegniew;4
+194;Drezdenko;4
+195;Gorzów Wielkopolski;4
+196;Gozdnica;4
+197;Gubin;4
+198;I³owa;4
+199;Jasieñ;4
+200;Kargowa;4
+201;Kostrzyn nad Odr¹;4
+202;Ko¿uchów;4
+203;Krosno Odrzañskie;4
+204;Lubniewice;4
+205;Lubsko;4
+206;£êknica;4
+207;Ma³omice;4
+208;Miêdzyrzecz;4
+209;Nowa Sól;4
+210;Nowe Miasteczko;4
+211;Nowogród Bobrzañski;4
+212;Oœno Lubuskie;4
+213;Rzepin;4
+214;Skwierzyna;4
+215;S³awa;4
+216;S³ubice;4
+217;Strzelce Krajeñskie;4
+218;Sulechów;4
+219;Sulêcin;4
+220;Szlichtyngowa;4
+221;Szprotawa;4
+222;Œwiebodzin;4
+223;Torzym;4
+224;Trzciel;4
+225;Witnica;4
+226;Wschowa;4
+227;Zb¹szynek;4
+228;Zielona Góra;4
+229;¯agañ;4
+230;¯ary;4
+231;Aleksandrów £ódzki;5
+232;Be³chatów;5
+233;Bia³a Rawska;5
+234;B³aszki;5
+235;Brzeziny;5
+236;Drzewica;5
+237;Dzia³oszyn;5
+238;G³owno;5
+239;Kamieñsk;5
+240;Koluszki;5
+241;Konstantynów £ódzki;5
+242;Kroœniewice;5
+243;Kutno;5
+244;£ask;5
+245;£êczyca;5
+246;£owicz;5
+247;£ódŸ;5
+248;Opoczno;5
+249;Ozorków;5
+250;Pabianice;5
+251;Pajêczno;5
+252;Piotrków Trybunalski;5
+253;Poddêbice;5
+254;Przedbórz;5
+255;Radomsko;5
+256;Rawa Mazowiecka;5
+257;Rzgów;5
+258;Sieradz;5
+259;Skierniewice;5
+260;Stryków;5
+261;Sulejów;5
+262;Szadek;5
+263;Tomaszów Mazowiecki;5
+264;Tuszyn;5
+265;Uniejów;5
+266;Warta;5
+267;Wieluñ;5
+268;Wieruszów;5
+269;Wolbórz;5
+270;Zduñska Wola;5
+271;Zelów;5
+272;Zgierz;5
+273;Z³oczew;5
+274;¯ychlin;5
+275;Alwernia;6
+276;Andrychów;6
+277;Biecz;6
+278;Bochnia;6
+279;Brzesko;6
+280;Brzeszcze;6
+281;Bukowno;6
+282;Che³mek;6
+283;Chrzanów;6
+284;Ciê¿kowice;6
+285;Czchów;6
+286;D¹browa Tarnowska;6
+287;Dobczyce;6
+288;Gorlice;6
+289;Grybów;6
+290;Jordanów;6
+291;Kalwaria Zebrzydowska;6
+292;Kêty;6
+293;Kraków;6
+294;Krynica-Zdrój;6
+295;Krzeszowice;6
+296;Libi¹¿;6
+297;Limanowa;6
+298;Maków Podhalañski;6
+299;Miechów;6
+300;Mszana Dolna;6
+301;Muszyna;6
+302;Myœlenice;6
+303;Niepo³omice;6
+304;Nowe Brzesko;6
+305;Nowy S¹cz;6
+306;Nowy Targ;6
+307;Nowy Wiœnicz;6
+308;Olkusz;6
+309;Oœwiêcim;6
+310;Piwniczna-Zdrój;6
+311;Proszowice;6
+312;Rabka;6
+313;Ska³a;6
+314;Skawina;6
+315;S³omniki;6
+316;Stary S¹cz;6
+317;Sucha Beskidzka;6
+318;Su³kowice;6
+319;Szczawnica;6
+320;Œwi¹tniki Górne;6
+321;Tarnów;6
+322;Trzebinia;6
+323;Tuchów;6
+324;Wadowice;6
+325;Wieliczka;6
+326;Wojnicz;6
+327;Wolbrom;6
+328;Zakliczyn;6
+329;Zakopane;6
+330;Zator;6
+331;¯abno;6
+332;Bia³obrzegi;7
+333;Bie¿uñ;7
+334;B³onie;7
+335;Brok;7
+336;Brwinów;7
+337;Chorzele;7
+338;Ciechanów;7
+339;Drobin;7
+340;Garwolin;7
+341;G¹bin;7
+342;Glinojeck;7
+343;Gostynin;7
+344;Góra Kalwaria;7
+345;Grodzisk Mazowiecki;7
+346;Grójec;7
+347;Halinów k/Warszawy;7
+348;I³¿a;7
+349;Józefów k/Otwocka;7
+350;Ka³uszyn;7
+351;Karczew;7
+352;Koby³ka;7
+353;Konstancin-Jeziorna;7
+354;Kosów Lacki;7
+355;Kozienice;7
+356;Legionowo;7
+357;Lipsko;7
+358;£askarzew;7
+359;£ochów;7
+360;£omianki;7
+361;£osice;7
+362;Maków Mazowiecki;7
+363;Marki;7
+364;Milanówek;7
+365;Miñsk Mazowiecki;7
+366;M³awa;7
+367;Mogielnica;7
+368;Mordy;7
+369;Mrozy;7
+370;Mszczonów;7
+371;Myszyniec;7
+372;Nasielsk;7
+373;Nowe Miasto nad Pilic¹;7
+374;Nowy Dwór Mazowiecki;7
+375;Ostro³êka;7
+376;Ostrów Mazowiecka;7
+377;Otwock;7
+378;O¿arów Mazowiecki;7
+379;Piaseczno;7
+380;Piastów;7
+381;Pilawa;7
+382;Pionki;7
+383;P³ock;7
+384;P³oñsk;7
+385;Podkowa Leœna;7
+386;Pruszków;7
+387;Przasnysz;7
+388;Przysucha;7
+389;Pu³tusk;7
+390;Raci¹¿;7
+391;Radom;7
+392;Radzymin;7
+393;Ró¿an;7
+394;Serock;7
+395;Siedlce;7
+396;Sierpc;7
+397;Skaryszew;7
+398;Sochaczew;7
+399;Soko³ów Podlaski;7
+400;Sulejówek;7
+401;Szyd³owiec;7
+402;Tarczyn;7
+403;T³uszcz;7
+404;Warka;7
+405;Warszawa;7
+406;Weso³a;7
+407;Wêgrów;7
+408;Wo³omin;7
+409;Wyszków;7
+410;Wyszogród;7
+411;Wyœmierzyce;7
+412;Zakroczym;7
+413;Z¹bki;7
+414;Zielonka;7
+415;Zwoleñ;7
+416;¯elechów;7
+417;¯uromin;7
+418;¯yrardów;7
+419;Baborów;8
+420;Bia³a;8
+421;Brzeg;8
+422;Byczyna;8
+423;Dobrodzieñ;8
+424;G³ogówek;8
+425;G³ubczyce;8
+426;G³ucho³azy;8
+427;Gogolin;8
+428;Gorzów Œl¹ski;8
+429;Grodków;8
+430;Kêdzierzyn-KoŸle;8
+431;Kietrz;8
+432;Kluczbork;8
+433;Kolonowskie;8
+434;Korfantów;8
+435;Krapkowice;8
+436;Leœnica;8
+437;Lewin Brzeski;8
+438;Namys³ów;8
+439;Niemodlin;8
+440;Nysa;8
+441;Olesno;8
+442;Opole;8
+443;Otmuchów;8
+444;Ozimek;8
+445;Paczków;8
+446;Praszka;8
+447;Prudnik;8
+448;Strzelce Opolskie;8
+449;Turawa;8
+450;Ujazd;8
+451;Wo³czyn;8
+452;Zawadzkie;8
+453;Zdzieszowice;8
+454;Baranów Sandomierski;9
+455;B³a¿owa;9
+456;Boguchwa³a;9
+457;Brzostek;9
+458;Brzozów;9
+459;Cieszanów;9
+460;Dêbica;9
+461;Dukla;9
+462;Dynów;9
+463;G³ogów Ma³opolski;9
+464;Iwonicz-Zdrój;9
+465;Jaros³aw;9
+466;Jas³o;9
+467;Jedlicze;9
+468;Kañczuga;9
+469;Kolbuszowa;9
+470;Krosno;9
+471;Lesko;9
+472;Le¿ajsk;9
+473;Lubaczów;9
+474;£añcut;9
+475;Mielec;9
+476;Narol;9
+477;Nisko;9
+478;Nowa Dêba;9
+479;Nowa Sarzyna;9
+480;Oleszyce;9
+481;Pilzno;9
+482;Przec³aw k/Mielca;9
+483;Przemyœl;9
+484;Przeworsk;9
+485;Radomyœl Wielki;9
+486;Radymno;9
+487;Ropczyce;9
+488;Rudnik nad Sanem;9
+489;Rymanów;9
+490;Rzeszów;9
+491;Sanok;9
+492;Sêdziszów Ma³opolski;9
+493;Sieniawa;9
+494;Soko³ów Ma³opolski;9
+495;Solina;9
+496;Stalowa Wola;9
+497;Strzy¿ów;9
+498;Tarnobrzeg;9
+499;Tyczyn;9
+500;Ulanów;9
+501;Ustrzyki Dolne;9
+502;Zagórz;9
+503;Zaklików;9
+504;Augustów;10
+505;Bia³ystok;10
+506;Bielsk Podlaski;10
+507;Brañsk;10
+508;Choroszcz;10
+509;Ciechanowiec;10
+510;Czarna Bia³ostocka;10
+511;D¹browa Bia³ostocka;10
+512;Drohiczyn;10
+513;Goni¹dz;10
+514;Grajewo;10
+515;Hajnówka;10
+516;Jedwabne;10
+517;Kleszczele;10
+518;Knyszyn;10
+519;Kolno;10
+520;Lipsk;10
+521;£apy;10
+522;£om¿a;10
+523;Moñki;10
+524;Nowogród;10
+525;Rajgród;10
+526;Sejny;10
+527;Siemiatycze;10
+528;Sokó³ka;10
+529;Stawiski;10
+530;Suchowola;10
+531;Supraœl;10
+532;Sura¿;10
+533;Suwa³ki;10
+534;Szczuczyn;10
+535;Tykocin;10
+536;Wasilków;10
+537;Wysokie Mazowieckie;10
+538;Zab³udów;10
+539;Zambrów;10
+540;Brusy;11
+541;Bytów;11
+542;Chojnice;11
+543;Czarna Woda;11
+544;Czarne;11
+545;Czersk;11
+546;Cz³uchów;11
+547;Debrzno;11
+548;Dzierzgoñ;11
+549;Gdañsk;11
+550;Gdynia;11
+551;Gniew;11
+552;Hel;11
+553;Jastarnia;11
+554;Jastrzêbia Góra;11
+555;Kartuzy;11
+556;Kêpice;11
+557;Koœcierzyna;11
+558;Krynica Morska;11
+559;KuŸnica k/Jastarni;11
+560;Kwidzyn;11
+561;Lêbork;11
+562;£eba;11
+563;Malbork;11
+564;Miastko;11
+565;Nowy Dwór Gdañski;11
+566;Nowy Staw;11
+567;Pelplin;11
+568;Prabuty;11
+569;Pruszcz Gdañski;11
+570;Puck;11
+571;Reda;11
+572;Rumia;11
+573;Skarszewy;11
+574;Skórcz;11
+575;S³upsk;11
+576;Sopot;11
+577;Starogard Gdañski;11
+578;Sztum;11
+579;Tczew;11
+580;Ustka;11
+581;Wejherowo;11
+582;W³adys³awowo;11
+583;¯ukowo;11
+584;Bêdzin;12
+585;Bielsko-Bia³a;12
+586;Bieruñ;12
+587;Blachownia;12
+588;Bytom;12
+589;Chorzów;12
+590;Cieszyn;12
+591;Czechowice-Dziedzice;12
+592;CzeladŸ;12
+593;Czerwionka-Leszczyny;12
+594;Czêstochowa;12
+595;D¹browa Górnicza;12
+596;Gliwice;12
+597;Imielin;12
+598;Jastrzêbie-Zdrój;12
+599;Jaworzno;12
+600;Kalety;12
+601;Katowice;12
+602;K³obuck;12
+603;Knurów;12
+604;Koniecpol;12
+605;Kozieg³owy;12
+606;Krzanowice;12
+607;Krzepice;12
+608;KuŸnia Raciborska;12
+609;Lêdziny;12
+610;Lubliniec;12
+611;£aziska Górne;12
+612;£azy;12
+613;Miasteczko Œl¹skie;12
+614;Miko³ów;12
+615;Mys³owice;12
+616;Myszków;12
+617;Ogrodzieniec;12
+618;Orzesze;12
+619;Piekary Œl¹skie;12
+620;Pilica;12
+621;Porêba;12
+622;Pszczyna;12
+623;Pszów;12
+624;Pyskowice;12
+625;Racibórz;12
+626;Radlin;12
+627;Radzionków;12
+628;Ruda Œl¹ska;12
+629;Rybnik;12
+630;Rydu³towy;12
+631;Siemianowice Œl¹skie;12
+632;Siewierz;12
+633;Skoczów;12
+634;S³awków;12
+635;Sosnowiec;12
+636;Soœnicowice;12
+637;Strumieñ;12
+638;Szczekociny;12
+639;Szczyrk;12
+640;Œwiêtoch³owice;12
+641;Tarnowskie Góry;12
+642;Toszek;12
+643;Tychy;12
+644;Ustroñ;12
+645;Wilamowice;12
+646;Wis³a;12
+647;Wodzis³aw Œl¹ski;12
+648;Wojkowice;12
+649;WoŸniki;12
+650;Zabrze;12
+651;Zawiercie;12
+652;¯arki;12
+653;¯ory;12
+654;¯ywiec;12
+655;Bodzentyn;13
+656;Busko-Zdrój;13
+657;Chêciny;13
+658;Chmielnik;13
+659;Æmielów;13
+660;Daleszyce;13
+661;Dzia³oszyce;13
+662;Jêdrzejów;13
+663;Kazimierza Wielka;13
+664;Kielce;13
+665;Koñskie;13
+666;Koprzywnica;13
+667;Kunów;13
+668;Ma³ogoszcz;13
+669;Opatów;13
+670;Osiek;13
+671;Ostrowiec Œwiêtokrzyski;13
+672;O¿arów;13
+673;Piñczów;13
+674;Po³aniec;13
+675;Sandomierz;13
+676;Sêdziszów;13
+677;Skalbmierz;13
+678;Skar¿ysko-Kamienna;13
+679;Starachowice;13
+680;Staszów;13
+681;St¹porków;13
+682;Suchedniów;13
+683;W¹chock;13
+684;W³oszczowa;13
+685;Zawichost;13
+686;Barczewo;14
+687;Bartoszyce;14
+688;Bia³a Piska;14
+689;Biskupiec;14
+690;Bisztynek;14
+691;Braniewo;14
+692;Dobre Miasto;14
+693;Dzia³dowo;14
+694;Elbl¹g;14
+695;E³k;14
+696;Frombork;14
+697;Gi¿ycko;14
+698;Go³dap;14
+699;Górowo I³aweckie;14
+700;I³awa;14
+701;Jeziorany;14
+702;Kêtrzyn;14
+703;Kisielice;14
+704;Korsze;14
+705;Lidzbark;14
+706;Lidzbark Warmiñski;14
+707;Lubawa;14
+708;Miko³ajki;14
+709;Mi³om³yn;14
+710;M³ynary;14
+711;Mor¹g;14
+712;Mr¹gowo;14
+713;Nidzica;14
+714;Nowe Miasto Lubawskie;14
+715;Olecko;14
+716;Olsztyn;14
+717;Olsztynek;14
+718;Orneta;14
+719;Orzysz;14
+720;Ostróda;14
+721;Pas³êk;14
+722;Pasym;14
+723;Pieniê¿no;14
+724;Pisz;14
+725;Reszel;14
+726;Ruciane-Nida;14
+727;Ryn;14
+728;Sêpopol;14
+729;Susz;14
+730;Szczytno;14
+731;Tolkmicko;14
+732;Wêgorzewo;14
+733;Zalewo;14
+734;Bojanowo;15
+735;Borek Wielkopolski;15
+736;Buk;15
+737;Chodzie¿;15
+738;Czarnków;15
+739;Czempiñ;15
+740;Czerniejewo;15
+741;D¹bie;15
+742;Dobra k/Turku;15
+743;Dobrzyca;15
+744;Dolsk;15
+745;Gniezno;15
+746;Golina;15
+747;Go³añcz;15
+748;Gostyñ;15
+749;Grabów nad Prosn¹;15
+750;Grodzisk Wielkopolski;15
+751;Jarocin;15
+752;Jastrowie;15
+753;Jutrosin;15
+754;Kalisz;15
+755;Kêpno;15
+756;Kleczew;15
+757;K³ecko;15
+758;K³odawa;15
+759;Kobylin;15
+760;Ko³o;15
+761;Konin;15
+762;Kostrzyn;15
+763;Koœcian;15
+764;KoŸmin Wielkopolski;15
+765;Kórnik;15
+766;Krajenka;15
+767;Krobia;15
+768;Krotoszyn;15
+769;Krzywiñ;15
+770;Krzy¿ Wielkopolski;15
+771;Ksi¹¿ Wielkopolski;15
+772;Leszno;15
+773;Luboñ;15
+774;Lwówek;15
+775;£ob¿enica;15
+776;Margonin;15
+777;Miejska Górka;15
+778;Miêdzychód;15
+779;Mikstat;15
+780;Mi³os³aw;15
+781;Mosina;15
+782;Murowana Goœlina;15
+783;Nekla;15
+784;Nowe Skalmierzyce;15
+785;Nowy Tomyœl;15
+786;Oborniki;15
+787;Obrzycko;15
+788;Odolanów;15
+789;Okonek;15
+790;Opalenica;15
+791;Osieczna;15
+792;Ostroróg;15
+793;Ostrów Wielkopolski;15
+794;Ostrzeszów;15
+795;Pi³a;15
+796;Pleszew;15
+797;Pniewy;15
+798;Pobiedziska;15
+799;Pogorzela;15
+800;Poniec;15
+801;Poznañ;15
+802;Przedecz;15
+803;Puszczykowo;15
+804;Pyzdry;15
+805;Rakoniewice;15
+806;Raszków;15
+807;Rawicz;15
+808;RogoŸno;15
+809;Rychwa³;15
+810;Rydzyna;15
+811;Sieraków;15
+812;Skoki;15
+813;S³upca;15
+814;Sompolno;15
+815;Stawiszyn;15
+816;Stêszew;15
+817;Swarzêdz;15
+818;Szamocin;15
+819;Szamotu³y;15
+820;Œlesin;15
+821;Œmigiel;15
+822;Œrem;15
+823;Œroda Wielkopolska;15
+824;Trzcianka;15
+825;Trzemeszno;15
+826;Tuliszków;15
+827;Turek;15
+828;Ujœcie;15
+829;W¹growiec;15
+830;Wieleñ;15
+831;Wielichowo;15
+832;Witkowo;15
+833;Wolsztyn;15
+834;Wronki;15
+835;Wrzeœnia;15
+836;Wyrzysk;15
+837;Wysoka;15
+838;Zagórów;15
+839;Zb¹szyñ;15
+840;Zduny;15
+841;Z³otów;15
+842;¯erków;15
+843;Barlinek;16
+844;Barwice;16
+845;Bia³ogard;16
+846;Bia³y Bór;16
+847;Bobolice;16
+848;Borne Sulinowo;16
+849;Cedynia;16
+850;Chociwel;16
+851;Chojna;16
+852;Choszczno;16
+853;Czaplinek;16
+854;Cz³opa;16
+855;Dar³owo;16
+856;Dêbno;16
+857;Dobra k/Nowogardu;16
+858;Dobrzany;16
+859;Drawno;16
+860;Drawsko Pomorskie;16
+861;Dziwnów;16
+862;Golczewo;16
+863;Goleniów;16
+864;Goœcino;16
+865;Gryfice;16
+866;Gryfino;16
+867;Iñsko;16
+868;Kalisz Pomorski;16
+869;Kamieñ Pomorski;16
+870;Karlino;16
+871;Ko³obrzeg;16
+872;Koszalin;16
+873;Lipiany;16
+874;£obez;16
+875;Maszewo;16
+876;Mieszkowice;16
+877;Miêdzyzdroje;16
+878;Miros³awiec;16
+879;Moryñ;16
+880;Myœlibórz;16
+881;Nowe Warpno;16
+882;Nowogard;16
+883;Pe³czyce;16
+884;P³oty;16
+885;Polanów;16
+886;Police;16
+887;Po³czyn-Zdrój;16
+888;Pyrzyce;16
+889;Recz;16
+890;Resko;16
+891;Sianów;16
+892;S³awno;16
+893;Stargard Szczeciñski;16
+894;Stepnica;16
+895;Suchañ;16
+896;Szczecin;16
+897;Szczecinek;16
+898;Œwidwin;16
+899;Œwinoujœcie;16
+900;Trzciñsko-Zdrój;16
+901;Trzebiatów;16
+902;Tuczno;16
+903;Tychowo k/Bia³ogardu;16
+904;Wa³cz;16
+905;Wolin;16
+906;Z³ocieniec;16
